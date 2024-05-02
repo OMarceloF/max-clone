@@ -51,7 +51,7 @@ const Profiles = () => {
                                     overflow-hidden
                                 '
                             >
-                                <img src="/images/mariaclara.jpg" alt="Profile"/>
+                                <img src="/images/profile.png" alt="Profile"/>
                             </div>
 
                             <div
